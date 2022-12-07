@@ -11,7 +11,19 @@ This electronic portfolio (ePortfolio) symbolizes the culmination of my time at 
 6. [Artifact Download Link](#download)
 
 ### 1. Professional Self Assessment <a name="assessment" />
-TBD
+My experience throughout the SNHU Computer Science program has been an incredible journey. When I started, I knew a little about how to “mess” with applications to make them behave differently, but I lacked a strong understanding of the context behind those changes. At the end of my time with the CS program, I have a much deeper appreciation for the world of Software Engineering, how far it has come from the early days of computing, and what is possible in the future.
+
+Throughout the program, I learned that my strengths include the following:
+
+- Thinking about user needs and requirements.
+- Enforcing stakeholder business rules.
+- Providing robust technical solutions to actual and potential problems.
+An example of these experiences includes the CS 340 Client/Server Development work, which addresses a customer’s need to develop a functioning dashboard application. Another example is analyzing an SQL database to prepare a business report as part of DAD-220 Structured Database Environments. 
+
+My focus and passion in Software Engineering stem from wanting to provide greater tooling to users, whether they are internal stakeholders of a company or external-facing customers. I am a firm believer in using a robust software architecture with efficient design, data structures, and algorithms to collaborate with others to solve practical problems and make others’ day-to-day lives more manageable. I also believe in the importance of proper security standards to meet these goals by following secure coding practices and performing detailed code reviews. 
+
+The following artifact enhancements demonstrate my abilities in many of these critical topics and how they fit with my program experiences. In addition, it describes the journey of taking an artifact from my early years in the program and how I could turn it into a working, full-stack application.
+
 
 ### 2. Code Review <a name="review" />
 
