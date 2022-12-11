@@ -24,6 +24,14 @@ Examples of these experiences include the CS 340 Client/Server Development work,
 
 My focus and passion in Software Engineering stem from wanting to provide greater tooling to users, whether they are internal stakeholders of a company or external-facing customers. I am a firm believer in using a robust software architecture with efficient design, data structures, and algorithms to collaborate with others to solve practical problems and make others' day-to-day lives more manageable. I also believe in the importance of proper security standards to meet these goals by following secure coding practices and performing detailed code reviews. 
 
+There are five key outcomes for this project, which are as follows:
+
+- I employed heavy planning and a code review process that encourages collaboration and iteration with a peer's work and supports the idea of making changes at either an individual or organizational level by discussing the code's high and low-level ramifications.
+- I designed and developed professional-quality communication work via lengthy code documentation and a code review analysis to highlight the quality differences between the original and final artifacts.
+- I designed and evaluated solutions to solve the problem of how to modernize a simple Java problem into a complex web-based solution that both utilizes traditional CS practices and involves an industry-standard set of design patterns and challenges.
+- I demonstrated numerous industry-standard skills and techniques to build a web application with forms, establish a library of shared data objects and unit tests, and develop an API that interfaces with the application.
+- Throughout this process, I developed a security mindset by highlighting all the security flaws with the original artifact, proposing changes that would eliminate those vulnerabilities, and replacing them with more secure designs such as a working database and API server, as well as form and model validation.
+
 The following artifact enhancements demonstrate my abilities in many of these critical topics and how they fit with my program experiences. In addition, it describes the journey of taking an artifact from my early years in the program and how I could turn it into a working, full-stack application.
 
 
