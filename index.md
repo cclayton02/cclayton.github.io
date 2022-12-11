@@ -37,13 +37,13 @@ The following artifact enhancements demonstrate my abilities in many of these cr
 
 ### 2. Code Review <a name="review" />
 
+Original Artifact Link - [MonitoringSystem.zip](https://github.com/cclayton02/cclayton02.github.io/tree/main/assets/zip/MonitoringSystem.zip)
+
 Click the image below to watch:
 
 <a href="https://drive.google.com/file/d/1IzdhSWAnm-K2svdBZef5wZcRewwbmWQG/view?usp=share_link">
   <img src="assets/img/code-review-thumb-01.png" alt="Thumbnail - Blazor Web Application" width="600"/>
 </a>
-
-Original Artifact Link - [MonitoringSystem.zip](https://github.com/cclayton02/cclayton02.github.io/tree/main/assets/zip/MonitoringSystem.zip)
 
 This video presentation reflects a code analysis process for my selected artifact, an Animal Monitoring System created as part of the final project for the course IT-145 Foundation in App Development. It is a console-based application written using the Java programming language. This presentation walks through the application's existing functionality, analyzes the code's structure based on checklist items, and discusses potential enhancements that will satisfy the course outcomes.
 
